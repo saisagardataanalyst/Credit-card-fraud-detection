@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```cmd
-git clone https://github.com/Yuvraj0014/Credit-Card-Fraud-Detection.git
+git clone https://github.com/saisagardataanalyst/Credit-card-fraud-detection.git
 cd Credit-Card-Fraud-Detection
 ```
 
